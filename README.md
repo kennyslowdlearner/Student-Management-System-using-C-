@@ -7,3 +7,6 @@ this code is for my practice purposes works which mainly used the STL or the sta
 discovering them and using them in a real-life scenario adds my curiosity on how to use it.
 
 it is just a step to be a hacker :>....!
+
+view here:
+https://github.com/kennyslowdlearner/Student-Management-System-using-C-.git
